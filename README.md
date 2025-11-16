@@ -1,66 +1,88 @@
-# Hi there, I'm Swanand Potnis 👋
+# Hi there, I'm Swanand 👋
 
 ## About Me
-🔭 **Data Analyst** specializing in Python, SQL, Power BI, and AI-enhanced workflows  
-🌱 Currently expanding expertise in **prompt engineering** and **AI automation**  
-💼 Background in **business operations** and **data-driven decision making**  
-🎯 Passionate about turning data into actionable business insights  
-📍 Based in **Pune, Maharashtra, India**
+- **Data & AI Engineer** specializing in Production AI Applications, RAG Systems, and Data Analytics  
+- Building **live SaaS applications** with AI at the core  
+- Background in **Data engineering, analytics**, and **AI-powered automation**  
+- Passionate about creating production-ready AI solutions that solve real problems  
+- Based in **India**
+
+## 🌟 Live Production Applications
+
+<div align="center">
+
+### 🚀 [DocGrit](https://docgrit.com) | AI API Documentation Generator
+*Automated endpoint detection • Intelligent documentation generation • Interactive API explorer*
+
+### 📊 [Data Quality Detective](https://mdqd.vercel.app) | CSV Analysis Tool
+*Automated quality checks • Anomaly detection • Comprehensive data insights*
+
+### 📰 [ClearFeed](https://clearfeed-news.vercel.app) | AI News Aggregator
+*Real-time news aggregation • AI-powered scoring • Smart categorization*
+
+[![Visit DocGrit](https://img.shields.io/badge/🚀_Visit-DocGrit-4285F4?style=for-the-badge)](https://docgrit.com)
+[![Visit MDQD](https://img.shields.io/badge/📊_Visit-Data_Quality_Detective-FF6B6B?style=for-the-badge)](https://mdqd.vercel.app)
+[![Visit ClearFeed](https://img.shields.io/badge/📰_Visit-ClearFeed-00D9FF?style=for-the-badge)](https://clearfeed-news.vercel.app)
+
+</div>
+
 
 ## 🛠️ Technologies & Tools
+<div align="center">
 
-### Programming & Databases
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Data Analysis & Visualization
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-### AI & Machine Learning
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### Other Tools
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6584?style=flat-square&logo=databricks&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+</div>
 
-## 🚀 Featured Projects
 
-### 🤖 [Prompt Engineering Playground](https://github.com/Swanand33/prompt-engineering-playground)
-Advanced techniques for optimizing Large Language Model interactions and AI workflows.
-- **Tech Stack:** Python, OpenAI API, Prompt Engineering
-- **Highlights:** Comprehensive demonstration of prompting strategies
-
-### 📊 [Low Carbon Trade Analysis](https://github.com/Swanand33/LowCarbonTrade-EDA)
-Complete analysis of global trade data for low-carbon technologies (1994-2023).
-- **Tech Stack:** Python, Pandas, Matplotlib, Jupyter
-- **Highlights:** Data cleaning, statistical analysis, visualization
-
-### 💰 [AI Bill Shock Analyzer](https://github.com/Swanand33/AI-bill-shock-analyzer)
-Machine Learning system for detecting anomalies in financial transactions.
-- **Tech Stack:** Python, Scikit-Learn, Streamlit, ML
-- **Highlights:** Real-time anomaly detection, interactive dashboard
-
-### 🏍️ [Motorcycle Parts Sales Analysis](https://github.com/Swanand33/Motorcycle-Parts-Sales)
-SQL-based business intelligence project for sales optimization.
-- **Tech Stack:** SQL, MySQL, Data Analysis
-- **Highlights:** Trend analysis, profitability insights
-
-### 📝 [AI-Powered To-Do App](https://github.com/Swanand33/AI-Enhanced-ToDo)
-Modern task management application with AI assistance.
-- **Tech Stack:** Python, Flask, SQLAlchemy, Bootstrap
-- **Highlights:** Dynamic task management, AI-enhanced productivity
 
 ## 📈 GitHub Stats
 
@@ -74,10 +96,10 @@ Modern task management application with AI assistance.
 
 ## 🎯 What I'm Working On
 
-- 🔍 **AI-Enhanced Data Workflows:** Integrating prompt engineering with traditional analytics
-- 📊 **Automated Business Intelligence:** Building self-updating dashboards and reports  
-- 🤖 **AI Applications:** Exploring practical AI solutions for business problems
-- 📈 **Advanced Analytics:** Developing predictive models for business insights
+- 🚀 **Production AI Apps:** Building and scaling live SaaS applications with AI capabilities
+- 🔗 **Advanced RAG Systems:** Implementing production-ready retrieval-augmented generation pipelines
+- 📊 **AI-Enhanced Analytics:** Creating intelligent data analysis tools with LLM integration
+- 🤖 **LangChain Applications:** Developing complex AI workflows and agent-based systems
 
 ## 🏆 Certifications & Achievements
 
@@ -89,29 +111,32 @@ Modern task management application with AI assistance.
 
 ## 📊 Experience Highlights
 
-✅ **Improved data accuracy by 20%** during internship at Cloud Counselage  
-✅ **Reduced business costs by 10%** through process optimization  
-✅ **Built AI-powered applications** for real-world business problems  
-✅ **Created automated workflows** using Python and AI tools  
-✅ **Managed supply chain operations** as business co-owner
+✅ **Built 3+ live production AI applications** serving real users  
+✅ **17+ GitHub repositories** spanning AI applications and data analytics  
+✅ **Improved data accuracy by 20%** through automated quality checks  
+✅ **Created end-to-end RAG systems** with vector databases and LangChain  
+✅ **Developed API-first solutions** with FastAPI and modern web frameworks
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swanandpotnis/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://swanand33.netlify.app/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@SwanandPotnis)
+[![DocGrit](https://img.shields.io/badge/-DocGrit-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docgrit.com)
 
 ## 💼 Open to Opportunities
 
 Currently seeking opportunities in:
-- **Data Analyst** roles
-- **AI/ML** positions  
-- **Business Intelligence** roles
-- **Prompt Engineering** opportunities
-- **Data Science** consulting projects
+- **Gen AI Engineer** roles
+- **AI Developer** positions  
+- **Data Engineer** roles
+- **Data Analyst** positions
+- **AI/ML** consulting projects
+- **Business Analyst** consulting 
 
 ---
 
-⭐️ **Fun Fact:** I combine traditional data analysis with modern AI tools to solve problems that others think require complex solutions!
+⭐️ **Fun Fact:** I don't just talk about AI. I ship production apps with it! Check out my live projects above.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Swanand33&color=brightgreen" alt="Profile Views" />
