@@ -127,8 +127,14 @@
 ## 💼 Open to Opportunities
 
 Currently seeking opportunities in:
-- **Gen AI Engineer**  - **AI Developer** - **Data Engineer** - **Python Developer**
-- **Data Analyst** - **AI/ML**   - **Business Analyst**
+- **Gen AI Engineer**
+- **AI Developer** 
+- **Data Analyst**
+- **Data Engineer** 
+- **Python Developer**
+- **Data Analyst** 
+- **AI/ML** 
+- **Business Analyst**
 
 ---
 
